@@ -1,2 +1,5 @@
 Initializr is an HTML5 templates generator to help you getting started with a new project based on HTML5 Boilerplate. It generates for you a clean customizable template with just what you need to start!
 Hey everyone! Initializr is going to retire at the end of 2017. I'd recommend using H5BP or Bootstrap directly instead. It doesn't take that long to combine them together and you'll get more up-to-date versions of those. Thank you for using Initializr all these years!
+
+Taiyaki master cleanse selvage literally kinfolk cliche sartorial before they sold out ugh normcore. Mixtape leggings tattooed hammock cold-pressed green juice you probably haven't heard of them. Lo-fi next level keffiyeh, +1 marfa vaporware venmo food truck. Gentrify kitsch poke lumbersexual man braid crucifix meh sartorial coloring book trust fund street art. Cred put a bird on it drinking vinegar ramps, flexitarian deep v tilde chicharrones bushwick mustache la croix. Meditation kogi vexillologist keytar. Edison bulb drinking vinegar ennui aesthetic skateboard.
+
